@@ -461,11 +461,39 @@ this library is designed to
 Khizab Optimizes data handling by providing built-in support for caching, deduplication, persistence, and much more through TanStack Query.
 
 ---
+layout: two-cols
+---
+
+## @Khizab/core is more than 10X lighter
+
+![@Khizab/core](./assets/kh-core.png)
+@khizab/core
+
+::right::
+
+![@aptos-labs/wallet-adapter-core](./assets/dd-core.png)
+@aptos-labs/wallet-adapter-core
+
+
+---
+layout: two-cols
+---
+
+## Khizab is more than 30X lighter
+
+![Khizab](./assets/kh-react.png)
+khizab
+
+::right::
+
+![@aptos-labs/wallet-adapter-react](./assets/dd-react.png)
+@aptos-labs/wallet-adapter-raect
+
+---
 level: 2
 ---
 ## 🧩 Feature Coverage
-
-- Khizab supports the most popular and commonly used Aptos SDK features out of the box with 20+ React Hooks for accounts, wallets, contracts, transactions, and more.
+most popular and commonly used Aptos SDK features out of the box with 20+ React Hooks for accounts, wallets, contracts, transactions, and more.
 
 <br />
 
@@ -485,13 +513,7 @@ class: text-center
 
 # Is it ready?
 
-### let's code
-
-
-<div class="abs-br text-xs right-4">
-What could possibly go wrong :D
-</div>
-
+### let's do a domo
 
 
 
